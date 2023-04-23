@@ -1,0 +1,40 @@
+{
+  "businesses": [
+    {
+      "name": "Aba Nigeria Temple",
+      "logo": "https://assets.ldscdn.org/b3/1f/b31f8fc3892ce063cfbd0607cd53980290fcc0ae/aba_nigeria_temple_lds.jpeg",
+      "address": "72-80 Okpu-Umuobo Rd Aba Abia State, Nigeria",
+      "phone": "(234) 810-815-6732",
+      "email": "hello@proaxivelabs.com",
+      "website": "https://www.churchofjesuschrist.org",
+      "description": "Ordinances for family names must be done in proper sequence—baptism, confirmation, Melchizedek Priesthood ordination (males), initiatory, endowment, and then sealing. "
+    },
+    {
+      "name": "Adelaide Australia Temple",
+      "logo": "https://assets.ldscdn.org/e9/bd/e9bd6df8906a98026e04cd747c4b5c9d78abb7e4/adelaide_australia_temple.jpeg",
+      "address": "53-59 Lower Portrush Rd Marden SA 5070 Australia",
+      "phone": "(61) 8-8363-8000",
+      "email": "info@mirafoods.com",
+      "website": "https://www.churchofjesuschrist.org",
+      "description": "Ordinances for family names must be done in proper sequence—baptism, confirmation, Melchizedek Priesthood ordination (males), initiatory, endowment, and then sealing. "
+    },
+    {
+      "name": "Accra Ghana Temple",
+      "logo": "https://assets.ldscdn.org/87/5d/875db78e8219c9c6f476fd0fd88f444b986a0d0f/accra_ghana_temple_lds.jpeg",
+      "address": "Accra Ghana Temple Complex 57 Independence Ave, North Ridge P.M.B. CT 209, Cantonments, Accra, Ghana",
+      "phone": "(234) 855-1211-0989",
+      "email": "info@ahmedfarms.com",
+      "website": "https://www.churchofjesuschrist.org",
+      "description": "Ordinances for family names must be done in proper sequence—baptism, confirmation, Melchizedek Priesthood ordination (males), initiatory, endowment, and then sealing. "
+    },
+    {
+      "name": "Albuquerque New Mexico Temple",
+      "logo": "https://assets.ldscdn.org/4e/c6/4ec65ba71856b3b99fb5547a193ee868b7f622b9/albuquerque_new_mexico_temple.jpeg",
+      "address": "10301 San Francisco Rd NE Albuquerque NM 87122-3437 United States",
+      "phone": "(1) 505-822-5110",
+      "email": "info@auctionmall.com",
+      "website": "https://www.churchofjesuschrist.org",
+      "description": "Ordinances for family names must be done in proper sequence—baptism, confirmation, Melchizedek Priesthood ordination (males), initiatory, endowment, and then sealing. "
+    }
+  ]
+}
